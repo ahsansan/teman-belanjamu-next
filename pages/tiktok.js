@@ -10,34 +10,6 @@ function TikTok() {
       link: "https://shope.ee/7KIBEZUzBY",
       judul: "Penutup Stop Kontak",
     },
-    {
-      link: "https://shope.ee/8UU8dLNzQ9",
-      judul: "Klip Penjepit Kabel di Dinding",
-    },
-    {
-      link: "https://shope.ee/6f2USU4dZh",
-      judul: "Penutup Kemasan Agar Tidak Tumpah",
-    },
-    {
-      link: "https://shope.ee/VRr7TSu1I",
-      judul: "Alat Pengupas Buah Apel / Pir",
-    },
-    {
-      link: "https://shope.ee/4paua5M7iU",
-      judul: "Tali Pengikat Gorden Magnet",
-    },
-    {
-      link: "https://shope.ee/8KAmlBeZ7o",
-      judul: "Cekatakan Es Silikon Bulat",
-    },
-    {
-      link: "https://shope.ee/4ALDneHnAv",
-      judul: "Alat Pengupas Buah Kiwi",
-    },
-    {
-      link: "https://shope.ee/5zmrz7lzEI",
-      judul: "Alat Pemotong Pisang / Sosis",
-    },
   ];
   return (
     <div>
@@ -48,7 +20,7 @@ function TikTok() {
       </Head>
 
       <div className="flex w-[350px] justify-center items-center flex-col my-10 border shadow-lg mx-auto rounded">
-        <h2 className="max-w-sm rounded p-1 m-6 text-2xl font-bold underline">
+        <h2 className="max-w-sm rounded p-1 m-6 text-2xl font-bold underline drop-shadow-lg">
           🛒 Link{" "}
           <span className="font-bold text-orange-500">Teman Belanjamu</span>
         </h2>
