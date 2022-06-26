@@ -3,11 +3,11 @@ import Head from "next/head";
 function App() {
   const links = [
     {
-      link: "https://shope.ee/6KPdimoIhU",
+      link: "https://shope.ee/2VE4Fm76zw",
       judul: "Bel Anti Air Wireless",
     },
     {
-      link: "https://shope.ee/7KIBEZUzBY",
+      link: "https://shope.ee/6A7McYj4b2",
       judul: "Penutup Stop Kontak",
     },
   ];
